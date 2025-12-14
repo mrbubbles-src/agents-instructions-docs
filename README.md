@@ -17,7 +17,33 @@ AI agents can make better decisions when they have access to well-defined rules 
 
 ## How To Use It
 
-Create a new repository from this Template or download the repository .zip-file and copy the `documentation/`-folder and `AGENTS.md`-file inside the root of your project — That's it! Your Agent should notice the `AGENTS.md` automatically an follow the baseline-guidelines, which reference the `documentation/`-folder and its contents.
+- Create a new repository from this Template.
+- Keep `documentation/` & `AGENTS.md` in the repository root and set-up the rest of your process as usual.
+
+OR
+
+- Download the repository .zip-file
+- copy the `documentation/`-folder and `AGENTS.md`-file inside the root of your project
+
+If you prefer certain `.md`-files only, feel free to click download them individually:
+
+### Naming Guidelines
+
+- [Types & Interfaces](documentation/agentic-guidelines/code-quality-guidelines/naming-guidelines/type-interface-naming-guidelines.md)
+- [Components, Functions, Variables](documentation/agentic-guidelines/code-quality-guidelines/naming-guidelines/components-function-variable-naming-guidelines.md)
+- [Files & Folders](documentation/agentic-guidelines/code-quality-guidelines/naming-guidelines/file-folder-naming-guidelines.md)
+
+### Other Guidelines
+
+- [Types](documentation/agentic-guidelines/code-quality-guidelines/types-guidelines.md)
+
+- [Commit Message](documentation/agentic-guidelines/commit-pull-request-guidelines/commit-guidelines.md)
+
+- [Pull Request](documentation/agentic-guidelines/commit-pull-request-guidelines/pull-request-guidelines.md)
+
+### Documentation Guidelines
+
+- [Documentation Standards](documentation/agentic-guidelines/documentation-guidelines/documentation-standards-guidelines.md)
 
 ## Repository Structure
 
@@ -83,3 +109,33 @@ By separating baseline rules and specific guidelines, this repo enables:
 - **reusable agent behavior across projects**
 
 ---
+
+---
+
+## Quick Access (Guideline Shortcuts)
+
+Here are direct links to common guideline files for easier navigation:
+
+### Naming Guidelines
+
+- [Types & Interfaces](documentation/agentic-guidelines/code-quality-guidelines/naming-guidelines/type-interface-naming-guidelines.md)
+- [Components, Functions, Variables](documentation/agentic-guidelines/code-quality-guidelines/naming-guidelines/components-function-variable-naming-guidelines.md)
+- [Files & Folders](documentation/agentic-guidelines/code-quality-guidelines/naming-guidelines/file-folder-naming-guidelines.md)
+
+### Other Guidelines
+
+- [Types](documentation/agentic-guidelines/code-quality-guidelines/types-guidelines.md)
+
+- [Commit Message](documentation/agentic-guidelines/commit-pull-request-guidelines/commit-guidelines.md)
+
+- [Pull Request](documentation/agentic-guidelines/commit-pull-request-guidelines/pull-request-guidelines.md)
+
+### Documentation Guidelines
+
+- [Documentation Standards](documentation/agentic-guidelines/documentation-guidelines/documentation-standards-guidelines.md)
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for details.
