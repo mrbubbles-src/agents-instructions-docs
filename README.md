@@ -25,7 +25,7 @@ OR
 - Download the repository .zip-file
 - copy the `documentation/`-folder and `AGENTS.md`-file inside the root of your project
 
-If you prefer certain `.md`-files only, feel free to click download them individually:
+If you prefer certain `.md`-files only, feel free to click the links below and download them individually:
 
 ### Naming Guidelines
 
