@@ -1,6 +1,6 @@
-# 🚀 Next Step
+<!-- ! Intended for Developers, not for Agents! -->
 
-<!-- Dies ist deine zentrale "Mini-Zentrale" für das LMS. Immer offen halten, keine ToDo-Wüste draus machen. -->
+# 🚀 Next Step
 
 **🎯 Aktueller Fokus:**
 
@@ -20,18 +20,10 @@
 
 ## ✅ Erledigt
 
-<!-- Immer, wenn du etwas abschließt, einfach hier ergänzen. -->
-
 - 🔥
 
 ---
 
 ### 🗓️ Mini-Log
 
-<!-- Schreib hier kurz rein, wann du was gemacht hast. Nur Stichpunkte, kein Roman. -->
-
 - **dd.mm.yyyy** –
-
----
-
-<!-- Tipp: Wenn du den Fokus wechselst, änder nur die obere Zeile und verschieb alte Punkte nach unten. -->
