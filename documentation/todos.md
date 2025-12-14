@@ -2,28 +2,28 @@
 
 # 🚀 Next Step
 
-**🎯 Aktueller Fokus:**
+**🎯 Current Focus:**
 
 ---
 
-## 🔧 Aktuell in Arbeit
+## 🔧 Currently Working On
 
 - [ ]
 
 ---
 
-## 🕓 Später
+## 🕓 Backlog
 
 - [ ]
 
 ---
 
-## ✅ Erledigt
+## ✅ Done
 
 - 🔥
 
 ---
 
-### 🗓️ Mini-Log
+### 🗓️ Short-Log
 
 - **dd.mm.yyyy** –
