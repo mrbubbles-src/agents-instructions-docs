@@ -1,20 +1,17 @@
 <!-- ! Intended for Developers, not for Agents! -->
 
-# 🚀 Next Step
+# 🚀 project_name – Execution Plan
 
-**🎯 Current Focus:**
-
----
-
-## 🔧 Currently Working On
-
-- [ ]
+**🎯 Current Focus:**  
+**🧠 Guiding Principle:**
 
 ---
 
-## 🕓 Backlog
+## 🔥 Critical Path (Blocking)
 
-- [ ]
+> Without these, everything else is either mock data or fragile scaffolding.
+
+## ⚙️ Core Features (Next Up)
 
 ---
 
@@ -22,8 +19,8 @@
 
 - 🔥
 
----
+⸻
 
-### 🗓️ Short-Log
+## 🗓️ Short Log
 
-- **dd.mm.yyyy** –
+- **yyyy-mm-dd** – File created
